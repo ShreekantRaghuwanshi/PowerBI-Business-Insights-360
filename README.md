@@ -30,6 +30,8 @@ AtliQ Hardware experienced losses in its Latin American operations due to relian
 - Networking segment product sales have been declining over the past three years.
 - Gross margin percentage has remained stable but slightly below target.
 - Focus should be on improving networking segment sales in regions like France, Netherlands, and Austria.
+- In 2022, the notebook achieved substantial net sales of 1580.43 M with a 38% gross margin, but net profit declined to -14.06%.
+- In 2022, networking generated 38.43 M in net sales with a higher gross margin of 38.5%, but net profit declined to -13.72%.
 
 ### Sales View
 
@@ -40,6 +42,7 @@ AtliQ Hardware experienced losses in its Latin American operations due to relian
 - Networking products consistently show the lowest net sales.
 - Discounts play a significant role in net sales, with almost half of the sales coming from discounts.
 - A significant portion of the cost of goods sold contributes to gross margin.
+- Nova, Digimarket, Notebilling, Otto, Billa, and Flawless Store are performing 10% below the Gross Margin target.
 
 ### Marketing View
 
@@ -50,6 +53,7 @@ AtliQ Hardware experienced losses in its Latin American operations due to relian
 - Notebooks have high net sales but the lowest gross margin, indicating pricing and discount issues.
 - Segments like peripherals and accessories have low net sales and gross margins, requiring more promotions.
 - Operational costs are higher than gross margin, resulting in losses.
+- In 2022, notebook achieved substantial net sales of 1580.43 M with a 38% gross margin, but net profit declined to -14.06%.
 
 ### Supply Chain View
 
@@ -58,6 +62,8 @@ AtliQ Hardware experienced losses in its Latin American operations due to relian
 **Insights:**
 - Forecast accuracy has improved, but there's room for improvement.
 - Significant out-of-stock instances and incorrect forecasts need attention.
+- Forecast Accuracy for 2022 improved significantly, reaching 81.53% by Dec 2021, surpassing the previous year performance.
+- In Dec 2021, the net error was recorded at -11093617 indicating instances of out-of-stock situations.
 
 ### Executive View
 
@@ -66,7 +72,11 @@ AtliQ Hardware experienced losses in its Latin American operations due to relian
 **Insights:**
 - AtliQ's market share has grown significantly, especially in Southeast Asia and India.
 - Forecast accuracy, net sales, and gross margin percentage are improving, but net profit remains negative.
+- AtliQ PC market share surged from 1.2% to a substantial 5.9% in 2022, showing remarkable growth in the market.
+- In 2022, AtliQ soared to 16.4% in Southeast Asia and 13.3% in India.
+- In 2022, LATAM secured a market share of 0.3%, reflecting a lower market presence compared to other regions.
 
 ---
 
 This project aims to provide AtliQ Hardware with actionable insights to drive business growth and profitability.
+
