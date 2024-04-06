@@ -18,7 +18,7 @@ AtliQ Hardware experienced losses in its Latin American operations due to relian
 
 ### Home Page
 
-https://github.com/ShreekantRaghuwanshi/PowerBI-Business-Insights-360/issues/1#issue-2229246676
+![homepage](https://github.com/ShreekantRaghuwanshi/PowerBI-Business-Insights-360/assets/137620293/f91d65bf-7c36-4bc2-945c-22675df0b457)
 
 ### Finance View
 
